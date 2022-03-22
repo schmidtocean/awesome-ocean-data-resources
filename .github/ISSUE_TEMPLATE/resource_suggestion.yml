@@ -1,7 +1,7 @@
 name: Ocean Data Resource Suggestion
 description: Please add the following reources to awesome-ocean-data-resources
 title: "[Resource]: "
-assignes: 
+assignees: 
   - CorinneBassin-SOI
 body:
   - type: markdown
