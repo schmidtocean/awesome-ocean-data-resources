@@ -1,0 +1,52 @@
+name: Ocean Data Resource Suggestion
+description: Please add the following reources to awesome-ocean-data-resources
+title: "[Resource]: "
+assignes: 
+  - CorinneBassin-SOI
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting another location to find oceanographic data! We will review your suggection and add it to our repository.
+  - type: input
+    id: Name
+    attributes:
+      label: Resource Name
+      description: What is the name of this data resource?
+      placeholder: ex. Rolling Deck to Repository
+    validations:
+      required: true
+
+  - type: input
+    id: WebsiteLink
+    attributes:
+      label: More information
+      description: What is the website address?
+      placeholder: ex. https://www.rvdata.us/
+    validations:
+      required: true
+
+  - type: dropdown
+    id: Owner-Steward-Type
+    attributes:
+      label: Data Steward Orgainzation Type
+      description: Which type of organization steards this data resource?
+      options:
+        - Academic
+        - NGO
+        - Government
+        - Private
+        - Other
+    validations:
+      required: false
+      
+  - type: dropdown
+    id: Owner-Steward-Name
+    attributes:
+      label: Data Steward Orgainzation Name
+      description: Which is the name if the steward organization?
+      placeholder: ex. Columbia University
+    validations:
+      required: false
+      
+      
