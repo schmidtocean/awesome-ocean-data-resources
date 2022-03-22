@@ -1,13 +1,16 @@
 # Welcome to our awesome-ocean-data-resources!
 
 Making ocean data more findable and accessible is a key part of ocean science and management, and a goal of the current [UN Decade of Ocean Science for Sustainable Development](https://en.unesco.org/ocean-decade). Ocean data portals are one way people have tried to increase findability and accessibility, and there are more than X of them now. However, many people don't know these portals exist, and they don't always show up in web searches. We've compiled this list of data portals as a starting point for the public to  highlight the need for better connectivity and interoperability across data sources and platforms.
+
 ### Contribution
-Do you have a ocean data repository or platform to add to this list? Please submit an issue in the github repository using the template, or e-mail data@schmidtocean.org
+Do you have a ocean data repository or platform to add to this list? Please submit an [issue](https://github.com/schmidtocean/awesome-ocean-data-resources/issues/new/choose) in this github repository using the Ocean Data Resource Suggestion template, or e-mail data@schmidtocean.org
+
 ### Attribution
-The following reseorce list was initially devleoped based on the supplemental materials from [Disrupting data sharing for a healthier ocean](https://doi.org/10.1093/icesjms/fsz068), with additional work from the C4IR Ocean team, Andrea Sanchez Davidson, Kyla Van Maanen, Kate Wing, and Schmidt Ocean Institute (SOI).
+- The following resource list was initially devleoped based on the supplemental materials from [Disrupting data sharing for a healthier ocean](https://doi.org/10.1093/icesjms/fsz068), with additional work from the C4IR Ocean team, Andrea Sanchez Davidson, Kyla Van Maanen, Kate Wing, and Schmidt Ocean Institute (SOI).
+- Please ensure data used from any of these resources follows the attribution suggested by the owner organization.
 
 
-
+## Ocean Data Resource List
 
 
 | Name                                                                                                                              | Owner-Steward        | Owner-Steward Name                                                                                        | Geography                                                                                            |
