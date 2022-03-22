@@ -6,7 +6,7 @@ Making ocean data more findable and accessible is a key part of ocean science an
 Do you have a ocean data repository or platform to add to this list? Please submit an [issue](https://github.com/schmidtocean/awesome-ocean-data-resources/issues/new/choose) in this github repository using the Ocean Data Resource Suggestion template, or e-mail data@schmidtocean.org
 
 ### Attribution
-- The following resource list was initially devleoped based on the supplemental materials from [Disrupting data sharing for a healthier ocean](https://doi.org/10.1093/icesjms/fsz068), with additional work from the C4IR Ocean team, Andrea Sanchez Davidson, Kyla Van Maanen, Kate Wing, and Schmidt Ocean Institute (SOI).
+- The following resource list was initially devleoped based on the supplemental materials from [Disrupting data sharing for a healthier ocean](https://doi.org/10.1093/icesjms/fsz068), with additional work from the [HUB Ocean](https://www.hubocean.earth/) team, Andrea Sanchez Davidson, Kyla Van Maanen, Kate Wing, and Schmidt Ocean Institute (SOI).
 - Please ensure data used from any of these resources follows the attribution suggested by the owner organization.
 
 
