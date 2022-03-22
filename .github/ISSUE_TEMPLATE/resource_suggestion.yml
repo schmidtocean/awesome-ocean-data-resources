@@ -39,7 +39,7 @@ body:
     validations:
       required: false
       
-  - type: dropdown
+  - type: input
     id: Owner-Steward-Name
     attributes:
       label: Data Steward Orgainzation Name
