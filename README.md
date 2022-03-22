@@ -1,6 +1,6 @@
 # Welcome to our awesome-ocean-data-resources!
 
-Making ocean data more findable and accessible is a key part of ocean science and management, and a goal of the current [UN Decade of Ocean Science for Sustainable Development](https://en.unesco.org/ocean-decade). Ocean data portals are one way people have tried to increase findability and accessibility, and there are more than X of them now. However, many people don't know these portals exist, and they don't always show up in web searches. We've compiled this list of data portals as a starting point for the public to  highlight the need for better connectivity and interoperability across data sources and platforms.
+Making ocean data more findable and accessible is a key part of ocean science and management, and a goal of the current [UN Decade of Ocean Science for Sustainable Development](https://en.unesco.org/ocean-decade). Ocean data portals are one way people have tried to increase findability and accessibility. However, many people don't know these portals exist, and they don't always show up in web searches. We've compiled this list of data portals as a starting point for the public to  highlight the need for better connectivity and interoperability across data sources and platforms.
 
 ### Contribution
 Do you have a ocean data repository or platform to add to this list? Please submit an [issue](https://github.com/schmidtocean/awesome-ocean-data-resources/issues/new/choose) in this github repository using the Ocean Data Resource Suggestion template, or e-mail data@schmidtocean.org
