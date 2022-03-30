@@ -29,7 +29,7 @@ body:
     id: Owner-Steward-Type
     attributes:
       label: Data Steward Orgainzation Type
-      description: Which type of organization steards this data resource?
+      description: Which type of organization stewards this data resource?
       options:
         - Academic
         - NGO
@@ -43,7 +43,7 @@ body:
     id: Owner-Steward-Name
     attributes:
       label: Data Steward Orgainzation Name
-      description: Which is the name if the steward organization?
+      description: Which is the name of the steward organization?
       placeholder: ex. Columbia University
     validations:
       required: false
