@@ -6,10 +6,10 @@ Making ocean data more findable and accessible is a key part of ocean science an
 "Catalogue of Sources":  [ODIS Catalogue](https://catalogue.odis.org/)**
 
 ### Contribution
-Do you have a ocean data repository or platform to add to this list? Please submit an [issue](https://github.com/schmidtocean/awesome-ocean-data-resources/issues/new/choose) in this github repository using the Ocean Data Resource Suggestion template, or e-mail data@schmidtocean.org
+Do you have an ocean data repository or platform to add to this list? Please submit an [issue](https://github.com/schmidtocean/awesome-ocean-data-resources/issues/new/choose) in this GitHub repository using the Ocean Data Resource Suggestion template, or e-mail data@schmidtocean.org
 
 ### Attribution
-- The following resource list was initially devleoped based on the supplemental materials from [Disrupting data sharing for a healthier ocean](https://doi.org/10.1093/icesjms/fsz068), with additional work from the [HUB Ocean](https://www.hubocean.earth/) team, Andrea Sanchez Davidson, Kyla Van Maanen, Kate Wing, and [Schmidt Ocean Institute](www.schmidtocean.org).
+- The following resource list was initially developed based on the supplemental materials from [Disrupting data sharing for a healthier ocean](https://doi.org/10.1093/icesjms/fsz068), with additional work from the [HUB Ocean](https://www.hubocean.earth/) team, Andrea Sanchez Davidson, Kyla Van Maanen, Kate Wing, and [Schmidt Ocean Institute](www.schmidtocean.org).
 - Please ensure data used from any of these resources follows the attribution suggested by the owner organization.
 
 
@@ -37,6 +37,7 @@ Do you have a ocean data repository or platform to add to this list? Please subm
 | [Data Mermaid](https://datamermaid.org/)                                                                                          | NGO                  | Data Mermaid                                                                                              | Global                                                                                               |
 | [DeepData Database](https://www.isa.org.jm/deepdata)                                                                              | GOV                  | International Seabed Authority                                                                            | Clarion Clipperton Zone                                                                              |
 | [EarthData NASA](https://search.earthdata.nasa.gov/search)                                                                        | GOV                  | NASA                                                                                                      | Global                                                                                               |
+|[European Tracking Network](https://europeantrackingnetwork.org/en)                                                     |Other                |Flanders Marine Institute (VLIZ) | Europe 
 | [EMODnet](https://ec.europa.eu/maritimeaffairs/atlas/maritime_atlas/)                                                                                    | GOV                  | European Commission Directorate General for Maritime Affairs and Fisheries                                | Europe                
 | [EPA Technical Resources about Beaches](https://www.epa.gov/beach-tech)                                                           | GOV                  | Environmental Protection Agency                                                                           | United States                                                                                        |
 | [European Atlas of the Seas](https://emodnet.ec.europa.eu/)     | GOV       | European Commission Directorate General for Maritime Affairs and Fisheries                                | Europe                                                           |
